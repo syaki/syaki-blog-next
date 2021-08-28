@@ -100,7 +100,7 @@ appearance:
 profile:
   # `email` is used for gravatar(https://en.gravatar.com),
   # fallback to `hexo.config.email` if not specified
-  email: syaki07@outlook.com
+  email: xia.fei@hotmail.com
 
   # You can set Avatar URL directly
   # avatar:
