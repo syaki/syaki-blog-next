@@ -11,7 +11,7 @@ specifiers:
   hexo-renderer-marked: ^4.1.0
   hexo-renderer-stylus: ^2.0.1
   hexo-server: ^2.0.0
-  hexo-theme-inside: ^2.7.0-beta.21
+  hexo-theme-inside: ^2.7.0-beta.22
   hexo-theme-landscape: ^0.0.3
 
 dependencies:
@@ -25,7 +25,7 @@ dependencies:
   hexo-renderer-marked: 4.1.0
   hexo-renderer-stylus: 2.0.1
   hexo-server: 2.0.0
-  hexo-theme-inside: 2.7.0-beta.21
+  hexo-theme-inside: 2.7.0-beta.22
   hexo-theme-landscape: 0.0.3
 
 packages:
@@ -760,8 +760,8 @@ packages:
       serve-static: 1.14.1
     dev: false
 
-  /hexo-theme-inside/2.7.0-beta.21:
-    resolution: {integrity: sha512-WuNdPp/15yd6/hMCobxm11lUWnOo8kh2Zn0fCor8ea/GjJZHjO4SVJ9m5evo5QoQOPzqPgfiLzmP2LS7HevRJA==}
+  /hexo-theme-inside/2.7.0-beta.22:
+    resolution: {integrity: sha512-JpHd4Ju6vIOPAbC4Qc++ef/ZaJDrB45KZEgZT4JQX6jJkDnafF9YRv73Px7Ze/F2Qcu3bW92zdcP3ibvrDookg==}
     dependencies:
       html-to-text: 8.0.0
       markdown-it: 12.2.0
