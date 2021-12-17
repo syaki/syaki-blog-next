@@ -100,7 +100,7 @@ appearance:
 profile:
   # `email` is used for gravatar(https://en.gravatar.com),
   # fallback to `hexo.config.email` if not specified
-  email: xia.fei@hotmail.com
+  email: syaki.nil@outlook.com
 
   # You can set Avatar URL directly
   # avatar:
@@ -124,7 +124,7 @@ sns:
   # `youtube`, `hangouts`, `linkedin`, `pinterest`, `soundcloud`, `myspace`, `weibo`, `qq
   email:
   github: https://github.com/syaki
-  twitter: https://twitter.com/xiafei_nil
+  twitter: https://twitter.com/syaki_nil
   # - icon: email
   #   title: Email
   #   url: # default to `profile.email`
